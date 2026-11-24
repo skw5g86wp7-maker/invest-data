@@ -1,0 +1,1 @@
+{"generatedAt":"2026-11-24T15:11:04+08:00","universe":332,"ok":332,"fail":0,"fails":[],"elapsedSec":80.1,"source":"https://query1.finance.yahoo.com/v8/finance/chart","interval":"1mo","years":20,"note":"Monthly adjclose when available (dividends/splits). TWSE=.TW, TPEx=.TWO, US=ticker."}
